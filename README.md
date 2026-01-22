@@ -78,5 +78,6 @@ Deploy using Streamlit or Flask
 ## 👨‍💻 Author
 
 Nilabh Madhaw Mishra
+
 B.Tech CSE (AI & ML)
 Aspiring AI/ML Engineer
